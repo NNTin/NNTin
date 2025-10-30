@@ -1,15 +1,6 @@
-## Hi there 👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNTin&show_icons=true&layout=compact&theme=dark&count_private=true" width="512" />
-    </a>
-<br/>
-<p></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="512" src="https://github-readme-stats.vercel.app/api?username=NNTin&show_icons=true&theme=dark&count_private=true" />
-</a>
-<br/>
-
-<!--
-Add shields
--->
+| Repository | Commit | Activity | Info | Page
+| ---------- | ------------ | ----------- | ------------ | ------------ |  
+| [me](https://github.com/nntin/me) | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/me_first.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/me_last.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/me_commits.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/me_days.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/me_added.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/me_removed.svg"> | [nntin.github.io](https://nntin.github.io) |
+| [d-zone](https://github.com/nntin/d-zone) | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-zone_first.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-zone_last.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-zone_commits.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-zone_days.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-zone_added.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-zone_removed.svg"> | [nntin.github.io/d-zone](https://nntin.github.io/d-zone) |
+| [d-back](https://github.com/nntin/d-back) | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-back_first.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-back_last.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-back_commits.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-back_days.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-back_added.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-back_removed.svg"> | [nntin.github.io/d-back](https://nntin.github.io/d-back) |
+| [d-cogs](https://github.com/nntin/d-cogs) | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-cogs_first.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-cogs_last.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-cogs_commits.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-cogs_days.svg"> | <img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-cogs_added.svg"><br><img src="https://raw.githubusercontent.com/nntin/me/output/badges/d-cogs_removed.svg"> | dashboard is currently private |
